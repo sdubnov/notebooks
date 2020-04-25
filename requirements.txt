@@ -5,4 +5,6 @@ sklearn
 sndfile
 librosa
 pretty_midi
+pandas
 tensorflow
+tensorflow_probability
