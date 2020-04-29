@@ -5,7 +5,7 @@ sklearn
 sndfile
 librosa
 tqdm
-glob
+glob2
 msgpack
 pretty_midi
 pandas
