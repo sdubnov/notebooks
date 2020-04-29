@@ -4,6 +4,7 @@ scipy
 sklearn
 sndfile
 librosa
+msgpack
 pretty_midi
 pandas
 tensorflow
