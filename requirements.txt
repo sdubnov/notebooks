@@ -4,6 +4,8 @@ scipy
 sklearn
 sndfile
 librosa
+tqdm
+glob
 msgpack
 pretty_midi
 pandas
